@@ -384,6 +384,14 @@ h1.publication-title.title.is-1 {
   color: #ffffff;
 }
 
+.cvpr-highlight {
+  color: #444;
+}
+
+[data-theme="dark"] .cvpr-highlight {
+  color: #e0e0e0;
+}
+
 [data-theme="dark"] .content {
   color: #e0e0e0;
 }
